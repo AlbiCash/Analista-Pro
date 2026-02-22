@@ -1,2 +1,2 @@
 # Analista-Pro
-un gioco semplice ma spiegato
+un gioco semplice ma spietato
